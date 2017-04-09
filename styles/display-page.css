@@ -1,0 +1,36 @@
+main {
+	font-size: 0;
+}
+.box-full {
+	margin-top: 90px;
+	width:800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.box {
+	display: inline-block;
+	border: 1px solid black;
+}
+.upper-half {
+	width: 50%;
+	height: 200px;
+}
+.left {
+	background-color: green;
+}
+.right {
+	background-color: blue;
+}
+.lower-third {
+	width: 33.3%;
+	height: 300px;
+}
+.far-left {
+	background-color: gray;
+}
+.middle {
+	background-color: black;
+}
+.far-right {
+	background-color: yellow;
+}
